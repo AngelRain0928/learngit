@@ -4,3 +4,4 @@ creating a new branch
 test dev and master
 --no -ff do not use fast forward
 successfully
+fix bug
